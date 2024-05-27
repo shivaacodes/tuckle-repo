@@ -1,0 +1,5 @@
+/* Change the background color of a button when the mouse hovers over it */
+button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
